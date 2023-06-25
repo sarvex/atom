@@ -145,7 +145,7 @@
     "scoped-property-store": "^0.17.0",
     "scrollbar-style": "^4.0.1",
     "season": "^6.0.2",
-    "semver": "7.3.2",
+    "semver": "7.5.2",
     "service-hub": "^0.7.4",
     "settings-view": "git+https://github.com/atom/settings-view.git#94418d6",
     "sinon": "9.2.1",
