@@ -34,7 +34,7 @@
     "autocomplete-snippets": "git+https://github.com/atom/autocomplete-snippets.git#2da0e23",
     "autoflow": "file:packages/autoflow",
     "autosave": "git+https://github.com/atom/autosave.git#129cbb9",
-    "babel-core": "5.8.38",
+    "babel-core": "6.26.3",
     "background-tips": "git+https://github.com/atom/background-tips.git#e54189c",
     "base16-tomorrow-dark-theme": "file:packages/base16-tomorrow-dark-theme",
     "base16-tomorrow-light-theme": "file:packages/base16-tomorrow-light-theme",
